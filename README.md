@@ -23,24 +23,27 @@ $ pkg install git -y
 
 ```
 ```
-$ git clone https://github.com/Expert-Hacker/Follow-Me.git
+$ git clone https://github.com/Expert-Hacker/igbrute.git
 ```
 ```
-$ cd Follow-Me
+$ igbrute
 ```
 ```
-$ bash setup.sh
+$ bash setup
 ```
 ```
-$ bash followme.sh
+$ bash igbrute.sh
 ```
 ```
 ```
-### ☑️Subscribe our channel on youtube⚙️:
-   https://www.youtube.com/channel/UC5GjaNLtyqJD8gkm7MI7f_A?view_as=subscriber
+### ➠Subscribe our channel on youtube⚙️:
+   https://youtube.com/channel/UC_p-IdibZhw5yE0ORsoz1Pg
 
-### ☑️ Join our Whatsapp Group✴️:
+### ➠ Join our Whatsapp Group✴️:
    https://chat.whatsapp.com/CFiddfO21kjJ7vhihFGQi3
+   
+### ➠ Visit Our Website for more stuffs✴️:
+   https://www.expert-hacker.in/
 
 
 
