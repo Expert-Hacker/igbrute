@@ -2,7 +2,7 @@
 <p align="center">
       ☢Bruteforce Attack over Instagram </p>
 
-### 🎯 About IG-BRUTE
+### ➠ About IG-BRUTE
 
 Follow-Me is a social engineering tool. Using this tool you can generate Fake Instagram Followers page to get Victim's Account and Password easily. it's a Bash based script officialy made by Expert-Hacker. This tool works on both rooted Android device and Non-rooted Android device.
 
