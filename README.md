@@ -10,11 +10,7 @@ IG-BRUTE is a tool witten on Bash. using this tool we can perform Bruteforce att
       •Termux
       •Kali Linux(on Test)
       
-### ➠ ***Follow-Me tool was Developed for***:
-
-* Termux
-
-### ☑️ ***Installation***:
+### ➠ ***Installion on Termux***:
 
 ```
 $ apt-get update -y
