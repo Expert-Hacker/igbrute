@@ -28,7 +28,7 @@ $ pkg install git -y
 $ git clone https://github.com/Expert-Hacker/igbrute.git
 ```
 ```
-$ cdigbrute
+$ cd igbrute
 ```
 ```
 $ bash setup
