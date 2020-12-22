@@ -6,7 +6,11 @@
 
 IG-BRUTE is a tool witten on Bash. using this tool we can perform Bruteforce attack over Instagram. we have implemented Tor service so there is no matter Blocking. This tool works on both rooted Android device and Non-rooted Android device.
 
-   ### ➠ ***Follow-Me tool was Developed for***:
+### ➠ ***Tested on***:
+      •Termux
+      •Kali Linux(on Test)
+      
+### ➠ ***Follow-Me tool was Developed for***:
 
 * Termux
 
