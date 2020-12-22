@@ -2,7 +2,7 @@
 <p align="center"><b>
       ☢Bruteforce Attack over Instagram </b></p>
       
-      <img src="https://user-images.githubusercontent.com/63892972/102862581-5000b800-4457-11eb-9d54-dafeaaf647f6.jpeg">
+      <img src="https://user-images.githubusercontent.com/63892972/102862581-5000b800-4457-11eb-9d54-dafeaaf647f6.jpeg" style="max-width:100%;">
 
 ### ➠ About IG-BRUTE
 
