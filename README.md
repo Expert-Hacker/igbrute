@@ -2,7 +2,8 @@
 <p align="center"><b>
       ☢Bruteforce Attack over Instagram </b></p>
       
-      ![picture]<img src="https://user-images.githubusercontent.com/63892972/102862581-5000b800-4457-11eb-9d54-dafeaaf647f6.jpeg" style="max-width:100%;">
+      ![WhatsApp Image 2020-12-22 at 1 08 26 PM](https://user-images.githubusercontent.com/63892972/102862581-5000b800-4457-11eb-9d54-dafeaaf647f6.jpeg)
+
 
 ### ➠ About IG-BRUTE
 
